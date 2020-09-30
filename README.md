@@ -16,7 +16,6 @@ Your site does not have to have the same layout as these wireframes, but they ar
 
 ### Mobile
 
-![mobile home page](mobile-home-page.png)
 
 ![mobile projects](mobile-projects.png)
 
